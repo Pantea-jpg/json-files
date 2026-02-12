@@ -1,0 +1,62 @@
+[
+  {
+    "id": "food-01",
+    "name": "tuna and jelly",
+    "popularity": "high",
+    "ingredients": ["tuna", "fish broth", "vitamins"],
+    "description": "A tasty tuna meal in soft jelly that cats find irresistible and never seem to get bored of.",
+    "calories": 150,
+    "image": "https://raw.githubusercontent.com/Pantea-jpg/project-images/main/images%20cats/foods/food-01.png",
+    "type": "wet"
+  },
+  {
+    "id": "food-02",
+    "name": "Chicken Pate",
+    "popularity": "medium",
+    "ingredients": ["chicken", "liver", "minerals"],
+    "description": "A smooth and creamy chicken pate made for cats who love rich flavors and soft textures.",
+    "calories": 165,
+    "image": "https://raw.githubusercontent.com/Pantea-jpg/project-images/main/images%20cats/foods/food-02.png",
+    "type": "wet"
+  },
+  {
+    "id": "food-03",
+    "name": "Salmon in Gravy",
+    "popularity": "high",
+    "ingredients": ["salmon", "gravy", "omega 3"],
+    "description": "Juicy salmon pieces covered in savory gravy, perfect for picky cats who enjoy extra flavor.",
+    "calories": 140,
+    "image": "https://raw.githubusercontent.com/Pantea-jpg/project-images/main/images%20cats/foods/food-03.png",
+    "type": "wet"
+  },
+  {
+    "id": "food-04",
+    "name": "Indoor Cat Kibble",
+    "popularity": "low",
+    "ingredients": ["chicken meal", "fiber", "vegetables"],
+    "description": "A balanced dry food designed for indoor cats, with added fiber to support healthy digestion.",
+    "calories": 185,
+    "image": "https://raw.githubusercontent.com/Pantea-jpg/project-images/main/images%20cats/foods/food-04.png",
+    "type": "dry"
+  },
+  {
+    "id": "food-05",
+    "name": "Beef Semi Moist",
+    "popularity": "medium",
+    "ingredients": ["beef", "rice", "natural flavors"],
+    "description": "A soft and chewy beef-based meal that combines the taste of fresh meat with easy chewing.",
+    "calories": 210,
+    "image": "https://raw.githubusercontent.com/Pantea-jpg/project-images/main/images%20cats/foods/food-05.png",
+    "type": "semi-dry"
+  },
+  {
+    "id": "food-06",
+    "name": "Salmon Adult Dry",
+    "popularity": "high",
+    "ingredients": ["salmon", "corn", "omega 3"],
+    "description": "A crunchy salmon-flavored dry food enriched with omega-3 for adult cats with active lifestyles.",
+    "calories": 170,
+    "image": "https://raw.githubusercontent.com/Pantea-jpg/project-images/main/images%20cats/foods/food-06.png",
+    "type": "dry"
+  }
+]
