@@ -1,238 +1,222 @@
 [
-  {
-    "id": "cat-01",
-    "name": "Tommy",
-    "description": "A cat who never gets full no matter how much he eats and is obsessed with causing trouble",
-    "gender": "male",
-    "age": 3,
-    "birthdate": "27-04-2022",
-    "image": "https://raw.githubusercontent.com/Pantea-jpg/project-images/main/images%20cats/cats/cat-01.png",
-    "skills": ["bug finding", "keyboard walking", "attacking on human"],
-    "isPettable": false,
-    "roleInHouse": "troublemaker",
-    "favouriteFood": {
-      "id": "food-03",
-      "name": "Salmon in Gravy",
-      "popularity": "high",
-      "ingredients": ["salmon", "gravy", "omega 3"],
-      "description": "Juicy salmon pieces covered in savory gravy, perfect for picky cats who enjoy extra flavor.",
-      "calories": 140,
-      "image": "https://raw.githubusercontent.com/Pantea-jpg/project-images/main/images%20cats/foods/food-03.png",
-      "type": "wet"
+    {
+        "id": "cat-01",
+        "name": "Tommy",
+        "description": "A cat who never gets full no matter how much he eats and is obsessed with causing trouble",
+        "gender": "male",
+        "age": 3,
+        "birthdate": "27-04-2022",
+        "image": "https://raw.githubusercontent.com/Pantea-jpg/project-images/main/cats/cat-01.png",
+        "skills": ["bug finding","keyboard walking","attacking on human"],
+        "isPettable": false,
+        "roleInHouse": "troublemaker",
+        "favouriteFood": {
+            "id": "food-03",
+            "name": "Salmon in Gravy",
+            "popularity": "high",
+            "ingredients": ["salmon", "gravy", "omega 3"],
+            "description": "Juicy salmon pieces covered in savory gravy, perfect for picky cats who enjoy extra flavor.",
+            "calories": 140,
+            "image": "https://raw.githubusercontent.com/Pantea-jpg/project-images/main/foods/food-03.png",
+            "type": "wet"
+        }
+    },
+    {
+        "id": "cat-02",
+        "name": "Hana",
+        "description": "A bossy and charismatic cat who believes he runs the house.",
+        "gender": "male",
+        "age": 6,
+        "birthdate": "16-07-2019",
+        "image": "https://raw.githubusercontent.com/Pantea-jpg/project-images/main/cats/cat-02.png",
+        "skills": ["judging","being incredibly charismatic","classy"],
+        "isPettable": false,
+        "roleInHouse": "boss",
+        "favouriteFood": {
+            "id": "food-01",
+            "name": "tuna and jelly",
+            "popularity": "high",
+            "ingredients": ["tuna", "fish broth", "vitamins"],
+            "description": "A tasty tuna meal in soft jelly that cats find irresistible and never seem to get bored of.",
+            "calories": 150,
+            "image": "https://raw.githubusercontent.com/Pantea-jpg/project-images/main/foods/food-01.png",
+            "type": "wet"
+        }
+    },
+    {
+        "id": "cat-03",
+        "name": "Maloos",
+        "description": "A smart, mischievous cat with an irresistibly cute personality.",
+        "gender": "female",
+        "age": 4,
+        "birthdate": "01-01-2022",
+        "image": "https://raw.githubusercontent.com/Pantea-jpg/project-images/main/cats/cat-03.png",
+        "skills": ["knocking things off tables","looking cute on purpose","clever"],
+        "isPettable": true,
+        "roleInHouse": "observer",
+        "favouriteFood": {
+            "id": "food-06",
+            "name": "Salmon Adult Dry",
+            "popularity": "high",
+            "ingredients": ["salmon", "corn", "omega 3"],
+            "description": "A crunchy salmon-flavored dry food enriched with omega-3 for adult cats with active lifestyles.",
+            "calories": 170,
+            "image": "https://raw.githubusercontent.com/Pantea-jpg/project-images/main/foods/food-06.png",
+            "type": "dry"
+        }
+    },
+    {
+        "id": "cat-04",
+        "name": "Makhmal",
+        "description": "A playful black kitty who brings chaos, cuddles, and a little bit of magic wherever they go.",
+        "gender": "male",
+        "age": 5,
+        "birthdate": "23-08-2020",
+        "image": "https://raw.githubusercontent.com/Pantea-jpg/project-images/main/cats/cat-04.png",
+        "skills": ["being a night owl","obsessively being lovely","hairball production"],
+        "isPettable": false,
+        "roleInHouse": "troublemaker",
+        "favouriteFood": {
+            "id": "food-05",
+            "name": "Beef Semi Moist",
+            "popularity": "medium",
+            "ingredients": ["beef", "rice", "natural flavors"],
+            "description": "A soft and chewy beef-based meal that combines the taste of fresh meat with easy chewing.",
+            "calories": 210,
+            "image": "https://raw.githubusercontent.com/Pantea-jpg/project-images/main/foods/food-05.png",
+            "type": "semi-dry"
+        }
+    },
+    {
+        "id": "cat-05",
+        "name": "Kitty",
+        "description": "A lazy Persian loaf with cloud-soft fur, zero motivation, and a PHD in doing absolutely nothing.",
+        "gender": "female",
+        "age": 2,
+        "birthdate": "19-10-2023",
+        "image": "https://raw.githubusercontent.com/Pantea-jpg/project-images/main/cats/cat-05.png",
+        "skills": ["ignoring commands","sleeping","biting and scratching"],
+        "isPettable": true,
+        "roleInHouse": "sleeping beauty",
+        "favouriteFood": {
+            "id": "food-03",
+            "name": "Salmon in Gravy",
+            "popularity": "high",
+            "ingredients": ["salmon", "gravy", "omega 3"],
+            "description": "Juicy salmon pieces covered in savory gravy, perfect for picky cats who enjoy extra flavor.",
+            "calories": 140,
+            "image": "https://raw.githubusercontent.com/Pantea-jpg/project-images/main/foods/food-03.png",
+            "type": "wet"
+        }
+    },
+    {
+        "id": "cat-06",
+        "name": "Orange",
+        "description": "An orange cat with two moods, five personalities, and zero explanation.",
+        "gender": "male",
+        "age": 7,
+        "birthdate": "04-11-2018",
+        "image": "https://raw.githubusercontent.com/Pantea-jpg/project-images/main/cats/cat-06.png",
+        "skills": ["invisible enemy fighting","tail chasing","being dramatic"],
+        "isPettable": false,
+        "roleInHouse": "troublemaker",
+        "favouriteFood": {
+            "id": "food-04",
+            "name": "Indoor Cat Kibble",
+            "popularity": "low",
+            "ingredients": ["chicken meal", "fiber", "vegetables"],
+            "description": "A balanced dry food designed for indoor cats, with added fiber to support healthy digestion.",
+            "calories": 185,
+            "image": "https://raw.githubusercontent.com/Pantea-jpg/project-images/main/foods/food-04.png",
+            "type": "dry"
+        }
+    },
+    {
+        "id": "cat-07",
+        "name": "Lucy",
+        "description": "Black, white, and cute all over. A tiny tuxedo queen stealing hearts daily.",
+        "gender": "female",
+        "age": 1,
+        "birthdate": "02-01-2025",
+        "image": "https://raw.githubusercontent.com/Pantea-jpg/project-images/main/cats/cat-07.png",
+        "skills": ["door scratching","sleeping","shelf jumping"],
+        "isPettable": true,
+        "roleInHouse": "observer",
+        "favouriteFood": {
+            "id": "food-06",
+            "name": "Salmon Adult Dry",
+            "popularity": "high",
+            "ingredients": ["salmon", "corn", "omega 3"],
+            "description": "A crunchy salmon-flavored dry food enriched with omega-3 for adult cats with active lifestyles.",
+            "calories": 170,
+            "image": "https://raw.githubusercontent.com/Pantea-jpg/project-images/main/foods/food-06.png",
+            "type": "dry"
+        }
+    },
+    {
+        "id": "cat-08",
+        "name": "Johnny",
+        "description": "He doesn't ask for permission. He allows things.",
+        "gender": "male",
+        "age": 7,
+        "birthdate": "19-06-2018",
+        "image": "https://raw.githubusercontent.com/Pantea-jpg/project-images/main/cats/cat-08.png",
+        "skills": ["Ignoring commands","knocking things off tables","midnight screaming"],
+        "isPettable": false,
+        "roleInHouse": "boss",
+        "favouriteFood": {
+            "id": "food-01",
+            "name": "tuna and jelly",
+            "popularity": "high",
+            "ingredients": ["tuna", "fish broth", "vitamins"],
+            "description": "A tasty tuna meal in soft jelly that cats find irresistible and never seem to get bored of.",
+            "calories": 150,
+            "image": "https://raw.githubusercontent.com/Pantea-jpg/project-images/main/foods/food-01.png",
+            "type": "wet"
+        }
+    },
+    {
+        "id": "cat-09",
+        "name": "Jasper",
+        "description": "wakes you up early, pretends he's innocent, disappears on demand and 100% cat.",
+        "gender": "male",
+        "age": 3,
+        "birthdate": "12-09-2022",
+        "image": "https://raw.githubusercontent.com/Pantea-jpg/project-images/main/cats/cat-09.png",
+        "skills": ["human alarm clock","fake innocence face","instant disappearance"],
+        "isPettable": false,
+        "roleInHouse": "troublemaker",
+        "favouriteFood": {
+            "id": "food-04",
+            "name": "Indoor Cat Kibble",
+            "popularity": "low",
+            "ingredients": ["chicken meal", "fiber", "vegetables"],
+            "description": "A balanced dry food designed for indoor cats, with added fiber to support healthy digestion.",
+            "calories": 185,
+            "image": "https://raw.githubusercontent.com/Pantea-jpg/project-images/main/foods/food-04.png",
+            "type": "dry"
+        }
+    },
+    {
+        "id": "cat-10",
+        "name": "Coco",
+        "description": "She doesn't hate you. She just tolerates your existence.",
+        "gender": "female",
+        "age": 4,
+        "birthdate": "06-08-2021",
+        "image": "https://raw.githubusercontent.com/Pantea-jpg/project-images/main/cats/cat-10.png",
+        "skills": ["sleeping anywhere","laser chasing","sudden bites"],
+        "isPettable": true,
+        "roleInHouse": "observer",
+        "favouriteFood": {
+            "id": "food-02",
+            "name": "Chicken Pate",
+            "popularity": "medium",
+            "ingredients": ["chicken", "liver", "minerals"],
+            "description": "A smooth and creamy chicken pate made for cats who love rich flavors and soft textures.",
+            "calories": 165,
+            "image": "https://raw.githubusercontent.com/Pantea-jpg/project-images/main/foods/food-02.png",
+            "type": "wet"
+        }
     }
-  },
-  {
-    "id": "cat-02",
-    "name": "Hana",
-    "description": "A bossy and charismatic cat who believes he runs the house.",
-    "gender": "male",
-    "age": 6,
-    "birthdate": "16-07-2019",
-    "image": "https://raw.githubusercontent.com/Pantea-jpg/project-images/main/images%20cats/cats/cat-02.png",
-    "skills": ["judging", "being incredibly charismatic", "classy"],
-    "isPettable": false,
-    "roleInHouse": "boss",
-    "favouriteFood": {
-      "id": "food-01",
-      "name": "tuna and jelly",
-      "popularity": "high",
-      "ingredients": ["tuna", "fish broth", "vitamins"],
-      "description": "A tasty tuna meal in soft jelly that cats find irresistible and never seem to get bored of.",
-      "calories": 150,
-      "image": "https://raw.githubusercontent.com/Pantea-jpg/project-images/main/images%20cats/foods/food-01.png",
-      "type": "wet"
-    }
-  },
-  {
-    "id": "cat-03",
-    "name": "Maloos",
-    "description": "A smart, mischievous cat with an irresistibly cute personality.",
-    "gender": "female",
-    "age": 4,
-    "birthdate": "01-01-2022",
-    "image": "https://raw.githubusercontent.com/Pantea-jpg/project-images/main/images%20cats/cats/cat-03.png",
-    "skills": [
-      "knocking things off tables",
-      "looking cute on purpose",
-      "clever"
-    ],
-    "isPettable": true,
-    "roleInHouse": "observer",
-    "favouriteFood": {
-      "id": "food-06",
-      "name": "Salmon Adult Dry",
-      "popularity": "high",
-      "ingredients": ["salmon", "corn", "omega 3"],
-      "description": "A crunchy salmon-flavored dry food enriched with omega-3 for adult cats with active lifestyles.",
-      "calories": 170,
-      "image": "https://raw.githubusercontent.com/Pantea-jpg/project-images/main/images%20cats/foods/food-06.png",
-      "type": "dry"
-    }
-  },
-  {
-    "id": "cat-04",
-    "name": "Makhmal",
-    "description": "A playful black kitty who brings chaos, cuddles, and a little bit of magic wherever they go.",
-    "gender": "male",
-    "age": 5,
-    "birthdate": "23-08-2020",
-    "image": "https://raw.githubusercontent.com/Pantea-jpg/project-images/main/images%20cats/cats/cat-04.png",
-    "skills": [
-      "being a night owl",
-      "obsessively being lovely",
-      "hairball production"
-    ],
-    "isPettable": false,
-    "roleInHouse": "troublemaker",
-    "favouriteFood": {
-      "id": "food-05",
-      "name": "Beef Semi Moist",
-      "popularity": "medium",
-      "ingredients": ["beef", "rice", "natural flavors"],
-      "description": "A soft and chewy beef-based meal that combines the taste of fresh meat with easy chewing.",
-      "calories": 210,
-      "image": "https://raw.githubusercontent.com/Pantea-jpg/project-images/main/images%20cats/foods/food-05.png",
-      "type": "semi-dry"
-    }
-  },
-  {
-    "id": "cat-05",
-    "name": "Kitty",
-    "description": "A lazy Persian loaf with cloud-soft fur, zero motivation, and a PHD in doing absolutely nothing.",
-    "gender": "female",
-    "age": 2,
-    "birthdate": "19-10-2023",
-    "image": "https://raw.githubusercontent.com/Pantea-jpg/project-images/main/images%20cats/cats/cat-05.jpeg",
-    "skills": ["ignoring commands", "sleeping", "biting and scratching"],
-    "isPettable": true,
-    "roleInHouse": "sleeping beauty",
-    "favouriteFood": {
-      "id": "food-03",
-      "name": "Salmon in Gravy",
-      "popularity": "high",
-      "ingredients": ["salmon", "gravy", "omega 3"],
-      "description": "Juicy salmon pieces covered in savory gravy, perfect for picky cats who enjoy extra flavor.",
-      "calories": 140,
-      "image": "https://raw.githubusercontent.com/Pantea-jpg/project-images/main/images%20cats/foods/food-03.png",
-      "type": "wet"
-    }
-  },
-  {
-    "id": "cat-06",
-    "name": "Orange",
-    "description": "An orange cat with two moods, five personalities, and zero explanation.",
-    "gender": "male",
-    "age": 7,
-    "birthdate": "04-11-2018",
-    "image": "https://raw.githubusercontent.com/Pantea-jpg/project-images/main/images%20cats/cats/cat-06.png",
-    "skills": ["invisible enemy fighting", "tail chasing", "being dramatic"],
-    "isPettable": false,
-    "roleInHouse": "troublemaker",
-    "favouriteFood": {
-      "id": "food-04",
-      "name": "Indoor Cat Kibble",
-      "popularity": "low",
-      "ingredients": ["chicken meal", "fiber", "vegetables"],
-      "description": "A balanced dry food designed for indoor cats, with added fiber to support healthy digestion.",
-      "calories": 185,
-      "image": "https://raw.githubusercontent.com/Pantea-jpg/project-images/main/images%20cats/foods/food-04.png",
-      "type": "dry"
-    }
-  },
-  {
-    "id": "cat-07",
-    "name": "Lucy",
-    "description": "Black, white, and cute all over. A tiny tuxedo queen stealing hearts daily.",
-    "gender": "female",
-    "age": 1,
-    "birthdate": "02-01-2025",
-    "image": "https://raw.githubusercontent.com/Pantea-jpg/project-images/main/images%20cats/cats/cat-07.png",
-    "skills": ["door scratching", "sleeping", "shelf jumping"],
-    "isPettable": true,
-    "roleInHouse": "observer",
-    "favouriteFood": {
-      "id": "food-06",
-      "name": "Salmon Adult Dry",
-      "popularity": "high",
-      "ingredients": ["salmon", "corn", "omega 3"],
-      "description": "A crunchy salmon-flavored dry food enriched with omega-3 for adult cats with active lifestyles.",
-      "calories": 170,
-      "image": "https://raw.githubusercontent.com/Pantea-jpg/project-images/main/images%20cats/foods/food-06.png",
-      "type": "dry"
-    }
-  },
-  {
-    "id": "cat-08",
-    "name": "Johnny",
-    "description": "He doesn't ask for permission. He allows things.",
-    "gender": "male",
-    "age": 7,
-    "birthdate": "19-06-2018",
-    "image": "https://raw.githubusercontent.com/Pantea-jpg/project-images/main/images%20cats/cats/cat-08.png",
-    "skills": [
-      "Ignoring commands",
-      "knocking things off tables",
-      "midnight screaming"
-    ],
-    "isPettable": false,
-    "roleInHouse": "boss",
-    "favouriteFood": {
-      "id": "food-01",
-      "name": "tuna and jelly",
-      "popularity": "high",
-      "ingredients": ["tuna", "fish broth", "vitamins"],
-      "description": "A tasty tuna meal in soft jelly that cats find irresistible and never seem to get bored of.",
-      "calories": 150,
-      "image": "https://raw.githubusercontent.com/Pantea-jpg/project-images/main/images%20cats/foods/food-01.png",
-      "type": "wet"
-    }
-  },
-  {
-    "id": "cat-09",
-    "name": "Jasper",
-    "description": "wakes you up early, pretends he's innocent, disappears on demand and 100% cat.",
-    "gender": "male",
-    "age": 3,
-    "birthdate": "12-09-2022",
-    "image": "https://raw.githubusercontent.com/Pantea-jpg/project-images/main/images%20cats/cats/cat-09.png",
-    "skills": [
-      "human alarm clock",
-      "fake innocence face",
-      "instant disappearance"
-    ],
-    "isPettable": false,
-    "roleInHouse": "troublemaker",
-    "favouriteFood": {
-      "id": "food-04",
-      "name": "Indoor Cat Kibble",
-      "popularity": "low",
-      "ingredients": ["chicken meal", "fiber", "vegetables"],
-      "description": "A balanced dry food designed for indoor cats, with added fiber to support healthy digestion.",
-      "calories": 185,
-      "image": "https://raw.githubusercontent.com/Pantea-jpg/project-images/main/images%20cats/foods/food-04.png",
-      "type": "dry"
-    }
-  },
-  {
-    "id": "cat-10",
-    "name": "Coco",
-    "description": "She doesn't hate you. She just tolerates your existence.",
-    "gender": "female",
-    "age": 4,
-    "birthdate": "06-08-2021",
-    "image": "https://raw.githubusercontent.com/Pantea-jpg/project-images/main/images%20cats/cats/cat-10.png",
-    "skills": ["sleeping anywhere", "laser chasing", "sudden bites"],
-    "isPettable": true,
-    "roleInHouse": "observer",
-    "favouriteFood": {
-      "id": "food-02",
-      "name": "Chicken Pate",
-      "popularity": "medium",
-      "ingredients": ["chicken", "liver", "minerals"],
-      "description": "A smooth and creamy chicken pate made for cats who love rich flavors and soft textures.",
-      "calories": 165,
-      "image": "https://raw.githubusercontent.com/Pantea-jpg/project-images/main/images%20cats/foods/food-02.png",
-      "type": "wet"
-    }
-  }
 ]
